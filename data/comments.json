@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "postId":5,
+        "by":"name",
+        "time":"04-07-2024",
+        "comment":"Hi,This is a comment"
+    },
+    {
+        "id":2,
+        "postId":1,
+        "by":"noname",
+        "time":"04-07-2024",
+        "comment":"Hi,This is another comment"
+    }
+]
